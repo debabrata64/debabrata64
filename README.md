@@ -18,6 +18,15 @@
 - ⚡ Fun fact **I love sleeping + eating + repeating**
 
 <!--  <h3 align="left">Connect with me:</h3> -->
+
+<div align="center">
+  
+  <h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/debabrata-samanta-321359288/)
+
+</div>
+
 <p align="left">
 </p>
 
