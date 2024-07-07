@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debabrata Samanta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata64&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata64" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata64&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata64" /> </p> -->
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🌱 I’m currently learning **Deep learning**
