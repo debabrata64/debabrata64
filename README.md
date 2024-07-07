@@ -2,7 +2,7 @@
 <img src="https://github.com/debabrata64/debabrata64/blob/main/name1.jpg" width="800px" height="80px">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata64&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata64" /> </p> -->
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" height="200" width="250" style="margin-top: 200px;">
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" height="250" width="350" style="margin-top: 200px;">
 
 <div align="center">
   <img src="https://github.com/debabrata64/debabrata64/blob/main/main.gif" height=400 width=400>
