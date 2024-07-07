@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debabrata Samanta</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <img src="https://github.com/debabrata64/debabrata64/blob/main/name1.jpg" width="800px" height="80px">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata64&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata64" /> </p> -->
