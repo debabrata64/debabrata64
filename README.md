@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debabrata Samanta</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://www.pinterest.com/pin/coding-animations--126663808259169690/">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding-animations--126663808259169690/">
 
 - 🌱 I’m currently learning **Deep learning**
 
